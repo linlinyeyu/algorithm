@@ -18,5 +18,11 @@
     <ClCompile Include="计算数字出现次数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="谁拿了最多的奖学金.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输出.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -3,7 +3,9 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+
+
+void getCount() {
 	int a;
 	char b;
 	cin >> a >> b;

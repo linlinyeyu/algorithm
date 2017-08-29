@@ -112,6 +112,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="计算数字出现次数.cpp" />
+    <ClCompile Include="谁拿了最多的奖学金.cpp" />
+    <ClCompile Include="输出.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
