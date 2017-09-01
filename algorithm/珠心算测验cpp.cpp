@@ -8,7 +8,7 @@ void getCommonSum() {
 	int n;
 	cin >> n;
 	int *agg = new int[n];
-	int *max = new int[n*n];
+	int *max = new int[20000];
 	int count = 0;
 	for (int i = 0; i < n; i++)
 	{
