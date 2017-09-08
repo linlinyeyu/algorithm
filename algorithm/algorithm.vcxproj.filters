@@ -27,5 +27,8 @@
     <ClCompile Include="珠心算测验cpp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="乒乓球.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
