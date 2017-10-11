@@ -3,7 +3,7 @@
 #include <iostream>
 
 using namespace std;
-char str[100000];
+char str[10000];
 
 void count(int number,int type) {
 	int score1 = 0,score2=0;
@@ -21,6 +21,7 @@ void count(int number,int type) {
 			cout << score1 << ':' << score2<<endl;
 			score1 = 0;
 			score2 = 0;
+			cout << endl;
 		}
 	}
 	cout << score1 << ":" << score2;

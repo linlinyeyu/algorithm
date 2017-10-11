@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 using namespace std;
-extern void getCommonSum();
+extern void countWin();
 
 int main() {
-	getCommonSum();
+	countWin();
 	getchar();
 	getchar();
 }
