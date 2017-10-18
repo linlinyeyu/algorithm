@@ -26,7 +26,7 @@ void count(int number,int type) {
 	cout << score1 << ":" << score2;
 }
 
-void countWin() {
+void countWin() {	
 	int k = 0;
 	while ((str[k] = getchar()) != EOF) {
 		if (str[k] == 'E')

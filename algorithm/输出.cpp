@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 using namespace std;
-extern void countWin();
+extern void out();
 
 int main() {
-	countWin();
+	out();
 	getchar();
 	getchar();
 }
