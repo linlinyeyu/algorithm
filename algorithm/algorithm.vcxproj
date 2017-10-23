@@ -111,6 +111,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ISBN号码.cpp" />
     <ClCompile Include="乒乓球.cpp" />
     <ClCompile Include="字符串还原.cpp" />
     <ClCompile Include="珠心算测验cpp.cpp" />

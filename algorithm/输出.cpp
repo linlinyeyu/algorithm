@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 using namespace std;
-extern void out();
+extern void judgeIsbn();
 
 int main() {
-	out();
+	judgeIsbn();
 	getchar();
 	getchar();
 }
